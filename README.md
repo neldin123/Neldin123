@@ -20,10 +20,9 @@ I am a Front-End Developer with a strong skill in HTML, CSS, JavaScript (ES6+) a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neldin123 &show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neldin123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neldin123 &layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neldin123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 </div>
 
 ---
