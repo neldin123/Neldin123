@@ -20,9 +20,9 @@ I am a Front-End Developer with a strong skill in HTML, CSS, JavaScript (ES6+) a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nooreldinabdelnaser&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neldin123 &show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nooreldinabdelnaser&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neldin123 &layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -39,7 +39,7 @@ I am a Front-End Developer with a strong skill in HTML, CSS, JavaScript (ES6+) a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nooreldin.dev@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nooreldinabdelnaser)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nooreldin.dev@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neldin123 )
 
 </div>
 
